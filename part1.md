@@ -36,4 +36,4 @@ Ontwikkelaars van websites en apps kunnen via een API-koppeling gebruikmaken van
 
 In 2024 liet Podiumkunst.net zo’n publiekstoepassing maken. Het uitgangspunt is dat liefhebbers van de podiumkunsten voor en na hun bezoek aan bijvoorbeeld een voorstelling interesse hebben in achtergrondinformatie bij die voorstelling en de makers. De gemaakte publiekstoepassing, een [widget](https://widget.podiumkunst.net/), is een interactief element dat organisaties kunnen toevoegen aan hun website. De widget haalt achtergrondinformatie op via de centrale toegang tot de verbonden collecties. 
 
-[In deel 2 lees je over de voorzieningen](part2)
+[In deel 2 lees je over de technische voorzieningen](part2)
