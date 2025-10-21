@@ -40,7 +40,7 @@ Daarnaast zijn er een aantal, al bestaande, lijsten die relevant zijn voor de po
 
 
 ## Voorzieningen dataplatform
-
+???
 
 
 ## Voorzieningen dienstplatform
@@ -53,8 +53,8 @@ Met behulp van SPARQL-queries kunnen de aangesloten collecties bevraagd worden. 
 De centrale toegang is gebouwd met het oog op performance. Caching speelt hierbij een belangrijke rol.
 
 Aangesloten datasets:
-- [Muziekopnamen Zendgemachtigden](https://data.beeldengeluid.nl/id/dataset/0028)
-- Theater Oostpool en Muziektheater De Plaats (via [PodiumArchief]())
+- (conceptversie) [Muziekopnamen Zendgemachtigden](https://data.beeldengeluid.nl/id/dataset/0028)
+- (conceptversie) Theater Oostpool en Muziektheater De Plaats (via [PodiumArchief]())
 - [Muziekschatten](https://data.muziekschatten.nl/)
 
 #### Wil je de centrale toegang gebruiken?
