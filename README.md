@@ -1,5 +1,5 @@
 # De infrastructuur van Podiumkunst.net: verbinden van digitale collecties
-Versie: juli 2025
+Versie: november 2025
 
 De infrastructuur van Podiumkunst.net bestaat uit (technische) afspraken en voorzieningen die nodig zijn om verschillende digitale collecties met elkaar te verbinden. Deze collecties, groot of klein, vormen samen het netwerk – of de knowledge graph – van Podiumkunst.net. De infrastructuur is opgebouwd volgens de richtlijnen van de Nationale Strategie Digitaal Erfgoed en de Digitaal Erfgoed Referentie Architectuur (DERA).  
 
