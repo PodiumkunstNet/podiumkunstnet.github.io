@@ -2,10 +2,8 @@
 
 Dit deel geeft een overzicht van hoe de infrastructuur van Podiumkunst.net werkt, en wat je nodig hebt om aan te sluiten en jouw collectie beter zichtbaar te maken.
 
-## RDA (Resource Description and Access)
-Door digitale collecties op dezelfde manier te beschrijven, zijn ze gemakkelijker met elkaar te verbinden. Podiumkunst.net gebruikt hiervoor de internationale beschrijvingsstandaard RDA (Resource Description and Access).
-
-Omdat de RDA veel breder is dan alleen de podiumkunsten, heeft Podiumkunst.net een selectie en invulling gemaakt die specifiek is voor de sector. Deze staat in het RDA-applicatieprofiel.
+## schema.org en RDA (Resource Description and Access)
+Door digitale collecties op dezelfde manier te beschrijven, zijn ze gemakkelijker met elkaar te verbinden. Podiumkunst.net gebruikt hiervoor internationale beschrijvingsstandaarden schema.org en de RDA (Resource Description and Access). Omdat de RDA veel breder is dan alleen de podiumkunsten, heeft Podiumkunst.net een selectie en invulling gemaakt die specifiek is voor de sector. Deze staat in het RDA-applicatieprofiel.
 
 ## Linked Open Data
 Podiumkunst.net maakt gebruik van Linked Open Data: gegevens die op een gestandaardiseerde manier met elkaar verbonden zijn en beschikbaar zijn voor hergebruik. Dit vergroot de zichtbaarheid en samenhang van collecties op het web.
