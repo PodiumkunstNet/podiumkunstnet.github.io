@@ -5,5 +5,5 @@ De infrastructuur van Podiumkunst.net bestaat uit (technische) afspraken en voor
 
 In dit document zijn de huidige afspraken en voorzieningen opgesomd. Het eerste deel is bedoeld voor iedereen met interesse in de infrastructuur. Het tweede deel bevat verdiepende informatie voor bijvoorbeeld linked data-specialisten en developers.
 
-- [Deel 1: RDA, Linked Data en aansluiting op Podiumkunst.net](part1.md)
+- [Deel 1: Standaarden, Linked Data en aansluiting op Podiumkunst.net](part1.md)
 - [Deel 2: Technische voorzieningen](part2.md)
