@@ -32,7 +32,7 @@ De centrale toegang is gebouwd met het oog op performance. Caching speelt hierbi
 Aangesloten datasets:
 - (conceptversie) [Muziekopnamen Zendgemachtigden](https://data.beeldengeluid.nl/id/dataset/0028)
 - (conceptversie) Theater Oostpool en Muziektheater De Plaats (via [PodiumArchief]())
-- [Muziekschatten](https://data.muziekschatten.nl/)
+- [Muziekschatten](https://data.muziekschatten.nl/) - Nederlandstalig klassiek
 
 #### Wil je de centrale toegang gebruiken?
 Je kunt de centrale toegang gebruiken om een nieuwe publiekstoepassing, zoals een website, mobiele app, of interactieve installatie te ontwikkelen.
