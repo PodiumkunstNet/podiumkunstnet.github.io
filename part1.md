@@ -20,7 +20,7 @@ Podiumkunst.net werkt bovendien samen met leveranciers en ontwikkelaars van de c
 Het vertrekpunt voor aansluiting op Podiumkunst.net is de manier waarop de collectie nu gestructureerd, beschreven en gepubliceerd is. Voor elke situatie zijn er voorzieningen beschikbaar die gebruikmaken van het RDA applicatieprofiel. Er zijn grofweg drie vertrekpunten: 
 
 ### Je hebt nog geen digitale objecten of metadata
-Start met het digitaliseren van de collectie. Daarna kun je de objecten beschrijven in een spreadsheet op basis van het RDA applicatieprofiel.
+Er zijn verschillende routes, zo kun je starten met het digitaliseren van de collectie. Daarna kun je de objecten beschrijven in een spreadsheet op basis van het RDA applicatieprofiel of direct in een collectiebeheersysteem. Je kunt ook starten met het beschrijven van de analoge objecten zodat er een digitale basis ontstaat om (later) gedigitaliseerde objecten aan toe te voegen.
 
 ### Je hebt gestructureerde metadata, maar nog geen Linked Data
 Je kunt aansluiten door je data te exporteren of een koppeling te maken met het platform. Podiumkunst.net helpt bij het omzetten van de gegevens naar schema.org en RDA en geeft suggesties voor verrijking met termen uit het [Termennetwerk](https://termennetwerk.netwerkdigitaalerfgoed.nl/).
