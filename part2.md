@@ -34,12 +34,6 @@ Aangesloten datasets:
 - (conceptversie) Theater Oostpool en Muziektheater De Plaats (via [PodiumArchief]())
 - [Muziekschatten](https://data.muziekschatten.nl/) - Nederlandstalig klassiek
 
-#### Wil je de centrale toegang gebruiken?
-Je kunt de centrale toegang gebruiken om een nieuwe publiekstoepassing, zoals een website, mobiele app, of interactieve installatie te ontwikkelen.
-Dat werkt als volgt: 
-
--
-
 ### Caching
 Om snel te kunnen zoeken in verschillende triples stores, heeft Podiumkunst.net een cachingmechanisme gebouwd. 
 
