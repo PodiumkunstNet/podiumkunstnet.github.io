@@ -20,7 +20,7 @@ In het Podiumkunst.net RDA-applicatieprofiel staat bijvoorbeeld:
 [Hier vind je het applicatieprofiel en bijbehorende documentatie](https://github.com/PodiumkunstNet/ApplicationProfileRDA) 
 
 
-## Voorzieningen dienstplatform
+<!-- ## Voorzieningen dienstplatform
 
 ### Centrale toegang tot verbonden collecties
 Wanneer collecties gepubliceerd zijn als Linked Data, en geregistreerd zijn bij het Datasetregister en de Podiumkunst.net Knowledge Graph, zijn deze collecties centraal doorzoekbaar.
@@ -35,7 +35,7 @@ Aangesloten datasets:
 - [Muziekschatten](https://data.muziekschatten.nl/) - Nederlandstalig klassiek
 
 ### Caching
-Om snel te kunnen zoeken in verschillende triples stores, heeft Podiumkunst.net een cachingmechanisme gebouwd. 
+Om snel te kunnen zoeken in verschillende triples stores, heeft Podiumkunst.net een cachingmechanisme gebouwd. --> 
 
 ## Overige voorzieningen
 
